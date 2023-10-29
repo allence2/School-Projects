@@ -1,2 +1,2 @@
 # School-Projects
-Re-writing school projects and improving their functionality or performance.
+Project 1 is setting a simple calendar that utilizes Java inheritance
